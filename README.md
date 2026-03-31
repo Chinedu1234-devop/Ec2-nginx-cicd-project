@@ -7,10 +7,10 @@ A web application is hosted on an EC2 instance
 NGINX is used as the web server
 Code is stored in GitHub
 CI/CD is implemented using GitHub Actions
-Updates are automatically deployed to the server via SSH
+Updates are automatically deployed to the server via SSH.
 
 ## Architecture
-Developer → GitHub Repo → GitHub Actions → EC2 (NGINX) → Browser
+Developer → GitHub Repo → GitHub Actions → EC2 (NGINX) → Browser.
 
 ## Technologies Used
 AWS EC2 (Amazon Linux 2)
