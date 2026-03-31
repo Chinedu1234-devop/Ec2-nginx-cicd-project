@@ -1,4 +1,4 @@
-<img width="1669" height="1226" alt="Screenshot 2026-03-31 at 16 27 04" src="https://github.com/user-attachments/assets/afb15aff-99c4-45cc-97b9-75208124db38" /># Ec2-nginx-cicd-project
+## Ec2-nginx-cicd-project
 This project demonstrates a complete end-to-end DevOps workflow by deploying a web server on AWS EC2 and automating deployments using GitHub Actions.
 
 ## Project Overview
