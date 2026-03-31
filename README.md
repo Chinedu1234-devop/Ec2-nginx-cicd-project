@@ -69,3 +69,4 @@ Deploys updated HTML
 ## Access the Application
 Open in browser:
 http://<your-ec2-public-ip>
+
