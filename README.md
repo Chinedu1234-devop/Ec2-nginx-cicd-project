@@ -35,13 +35,9 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 ### 3. Deploy Web Page
-```bash
+```
 echo "<h1>Welcome to My Web Server</h1>" | sudo tee /var/www/html/index.html
 ```
-
-## 3. Deploy Web Page
-echo"<h1>Welcome to My Web Server</h1>" | sudo tee /var/www/html/index.html.
-
 ## 4. Set Up GitHub Repository
 Create repository
 Push project files:
