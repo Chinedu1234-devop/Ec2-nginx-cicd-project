@@ -70,5 +70,6 @@ Deploys updated HTML
 Open in browser:
 http://<your-ec2-public-ip>
 
-<img width="2056" height="1329" alt="Screenshot 2026-03-31 at 13 23 29" src="https://github.com/user-attachments/assets/72046b96-85ec-4cbd-b709-6aefd321e0de" />
+<img width="1815" height="1259" alt="Screenshot 2026-03-31 at 13 23 29" src="https://github.com/user-attachments/assets/5d441fd1-2a0c-4b98-96da-48f0a6ffccc9" />
+
 
