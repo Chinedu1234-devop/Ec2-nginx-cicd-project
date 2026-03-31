@@ -68,7 +68,7 @@ Deploys updated HTML
 
 ## Access the Application
 Open in browser:
-http://<your-ec2-public-ip>
+http://your-ec2-public-ip
 
 <img width="1815" height="1259" alt="Screenshot 2026-03-31 at 13 23 29" src="https://github.com/user-attachments/assets/5d441fd1-2a0c-4b98-96da-48f0a6ffccc9" />
 
